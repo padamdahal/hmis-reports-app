@@ -1,0 +1,10 @@
+{
+  "type": "app",
+  "title": "Dataset & Reporting App",
+  "name": "dataset-reporting-app",
+  "version": "1.0.0",
+  "description": "",
+  "entryPoints": {
+    "app": "index.html"
+  }
+}

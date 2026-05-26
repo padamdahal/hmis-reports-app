@@ -1,0 +1,1 @@
+http://202.166.205.218/hmis/api/documents?fields=id,name,contentType,displayName&paging=false

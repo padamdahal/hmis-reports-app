@@ -1,0 +1,22 @@
+{
+  "appType": "APP",
+  "short_name": "dataset-reporting-app",
+  "name": "Dataset & Reporting App",
+  "description": "",
+  "version": "1.0.0",
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "manifest_generated_at": "Fri Aug 30 2024 14:36:37 GMT+0545 (Nepal Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "scope": "."
+}
